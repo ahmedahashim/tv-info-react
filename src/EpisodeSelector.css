@@ -1,0 +1,15 @@
+.selector-container{
+    width: 100%;
+}
+
+.selector-container select{
+width :20%;
+height:  30px;
+margin-right: 5px;
+background-color: rgb(231, 222, 222)
+ }
+
+ 
+ .selector-container  button{
+     height : 30px important;
+ }
